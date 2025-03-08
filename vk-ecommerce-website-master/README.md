@@ -1,4 +1,4 @@
-# vk - An eCommerce Website
+# VK - An eCommerce Website
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/anon-ecommerce-website)
 ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/anon-ecommerce-website?style=social)
@@ -10,8 +10,8 @@ Anon is a fully responsive ecommerce website, maximum compatiblities in all mobi
 
 ## Demo
 
-![vk Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vk Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+![VK Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![VK Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
 ## Prerequisites
 
